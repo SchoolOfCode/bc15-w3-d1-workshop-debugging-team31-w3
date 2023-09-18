@@ -14,7 +14,7 @@ function countNumberOfNinesInNumber(number) {
 return count;
 }
 
-//countNumberOfNinesInNumber(9)         
-//countNumberOfNinesInNumber(989)       
-//countNumberOfNinesInNumber(1115.1257846) 
+//countNumberOfNinesInNumber(9)
+//countNumberOfNinesInNumber(989)
+//countNumberOfNinesInNumber(1115.1257846)
 //How could you check if the for loop is running and how many iterations it completes before ending?
